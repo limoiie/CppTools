@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Ideal's project config folder
+.idea
+
+# Clion's build folder
+cmake-build-*

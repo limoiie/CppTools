@@ -1,2 +1,2 @@
 # CppTools
-Useful toolkit for cpp
+Useful toolkit for cpp *in coding...*
