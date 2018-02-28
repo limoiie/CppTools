@@ -36,3 +36,6 @@
 
 # Clion's build folder
 cmake-build-*
+
+# Build folder
+build
