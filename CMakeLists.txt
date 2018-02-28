@@ -5,5 +5,5 @@ set(CMAKE_CXX_STANDARD 11)
 
 include_directories(include)
 
-set(SOURCE_FILES main.cpp)
-add_executable(CppTools ${SOURCE_FILES})
+add_subdirectory(src)
+add_subdirectory(test)
